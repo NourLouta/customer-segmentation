@@ -240,3 +240,11 @@ K-Means Clustering Guide
 RFM Analysis Methodology
 Streamlit Documentation
 Customer Segmentation Best Practices
+📊 Model Performance
+Metric	Value
+Silhouette Score	0.68
+Davies-Bouldin Index	0.52
+Calinski-Harabasz Score	3,245
+Number of Clusters	5
+Customers Analyzed	4,338
+Features Used	12
