@@ -735,10 +735,13 @@ def show_segment_overview(df, transactions):
             'Avg Spend': '₹{:,.2f}',
             'Avg RFM Score': '{:.2f}',
             'Customer Count': '{:,}'
-        }).background_gradient(subset=['Avg Spend'], cmap='teal'),
+        })
+        .background_gradient(subset=['Avg Spend'], cmap='YlGnBu')
+        .background_gradient(subset=['Avg Frequency'], cmap='Greens')
+        .background_gradient(subset=['Avg RFM Score'], cmap='RdYlGn'),
         use_container_width=True
     )
-    
+
     st.markdown("---")
     
     # RFM Analysis
