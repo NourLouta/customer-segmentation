@@ -1,0 +1,32 @@
+Cluster,Cluster_Name,Category,Transaction_Count,Total_Spend
+0,💎 High-Value Loyalists,Electronics,47,16966.0
+0,💎 High-Value Loyalists,F&B,2508,825466.8
+0,💎 High-Value Loyalists,Fashion,757,276947.2
+0,💎 High-Value Loyalists,Grocery,9048,2425296.2
+0,💎 High-Value Loyalists,Health & Beauty,592,123481.8
+0,💎 High-Value Loyalists,Other,29,11348.9
+0,💎 High-Value Loyalists,Transportaion,19,7424.0
+1,😴 At-Risk/Dormant,Electronics,60,14555.2
+1,😴 At-Risk/Dormant,F&B,3003,547490.7
+1,😴 At-Risk/Dormant,Fashion,942,187847.0
+1,😴 At-Risk/Dormant,Grocery,10361,1942159.9
+1,😴 At-Risk/Dormant,Health & Beauty,513,84276.3
+1,😴 At-Risk/Dormant,Other,7,2329.0
+1,😴 At-Risk/Dormant,Transportaion,69,13656.0
+2,🛒 Regular Customers,Electronics,45,90078.0
+2,🛒 Regular Customers,F&B,304,447790.5
+2,🛒 Regular Customers,Fashion,332,603653.5
+2,🛒 Regular Customers,Grocery,1196,2411910.1
+2,🛒 Regular Customers,Health & Beauty,43,73122.2
+2,🛒 Regular Customers,Transportaion,10,18064.0
+3,🆕 Recent Shoppers,Electronics,56,26674.0
+3,🆕 Recent Shoppers,F&B,1902,478604.4
+3,🆕 Recent Shoppers,Fashion,1300,427435.9
+3,🆕 Recent Shoppers,Grocery,10021,2802622.4
+3,🆕 Recent Shoppers,Health & Beauty,356,93449.8
+3,🆕 Recent Shoppers,Other,11,5776.0
+3,🆕 Recent Shoppers,Transportaion,48,14283.3
+4,🌟 VIP Champions,Electronics,20,149318.0
+4,🌟 VIP Champions,F&B,3,5065.5
+4,🌟 VIP Champions,Fashion,2,1792.0
+4,🌟 VIP Champions,Grocery,68,336372.5
